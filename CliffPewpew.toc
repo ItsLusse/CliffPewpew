@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: |cffFF7D0ACliff|cff00ff00Pewpew
+## Author: Cliffholger
+## Version: 0.1
+## Notes: Sends Pewpew message in guildchat when you level up. By |cffFF7D0ACliffholger
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+CliffPewpew.lua
